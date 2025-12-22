@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVI9svkIU/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Anime Coding GIF" />
+  <img src="[https://media.giphy.com/media/L1R1TVI9svkIU/giphy.gif](https://64.media.tumblr.com/34796c113111e802103822a9c9b2f36f/5114f331db5cffc1-04/s1280x1920/bd344716220ca5fe71b43dbf9ddb400c6f47254a.gifv)" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Anime Coding GIF" />
 </div>
 
 <h1 align="center">Hola, soy ShadowLopez 👋</h1>
