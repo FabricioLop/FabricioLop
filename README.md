@@ -1,47 +1,47 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNsOW55bnh5bmNsOW55bnh5bmNsOW55bnh5bmNsOW55bnh5bmNsOW55biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVI9svkIU/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Qin Shi Huang Anime" />
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h1>Hola, soy ShadowLopez 👋</h1>
+      <h3>🚀 Ing. de Software | Futuro DevOps & PM</h3>
+      <br>
+      
+      <a href="https://www.linkedin.com/in/fabricio-lopez-dev/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.instagram.com/lopezlopezfabricio/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <a href="mailto:u202215695@upc.edu.pe">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br><br>
 
-<h1 align="center">Hola, soy ShadowLopez 👋</h1>
-<h3 align="center">🚀 Estudiante de Ingeniería de Software | Futuro DevOps & Project Manager</h3>
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/fabricio-lopez-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lopezlopezfabricio/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:u202215695@upc.edu.pe">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/FabricioLop">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
+      <ul>
+        <li>🔭 Trabajando en <strong>proyectos para mi portafolio.</strong></li>
+        <li>🌱 Aprendiendo <strong>Cloud (AWS/Azure) y Arquitectura.</strong></li>
+        <li>🎯 Meta: <strong>DevOps, DevSecOps y Jefe de Proyecto.</strong></li>
+        <li>☕ <strong>Café con leche y hielo.</strong></li>
+        <li>⚡ <strong>Anime, Gym, Lectura y Series.</strong></li>
+      </ul>
+    </td>
+    
+    <td width="40%" valign="center">
+      <img src="./qin-shi.gif" width="100%" style="border-radius: 10px;" alt="Mi GIF Personal" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 👨‍💻 Sobre mí
-
-- 🔭 Actualmente estoy trabajando en **proyectos personales para mejorar mi portafolio.**
-- 🌱 Estoy aprendiendo sobre **Cloud Computing (AWS & Azure) y arquitecturas robustas.**
-- 🎯 Mis objetivos: Desarrollarme como **Developer, DevOps, DevSecOps** y liderar como **Jefe de Proyecto**.
-- ☕ Combustible: **Café con leche y mucho hielo.**
-- ⚡ Hobbies: Fan del **Anime**, ir al **Gym**, leer y maratonear series/películas.
-
----
-
-### ⭐ Proyecto Destacado: RingentSoft
+### ⭐ Proyecto Destacado: RingentSoft (Organización)
 
 > 🐟 **Optimización de rutas de acopio.**
-> Una aplicación diseñada para calcular y demostrar la ruta más eficiente para el acopio de anchovetas, reduciendo costos y tiempo logístico.
+> Aplicación para calcular la ruta más eficiente en el acopio de anchovetas.
+> **[Ver Organización en GitHub](https://github.com/RingenSoft)**
 
 | Stack Tecnológico | Estado |
 | :--- | :--- |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | 🚀 **En Desarrollo / Terminado** |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ✅ **Terminado** |
 
 ---
 
@@ -102,19 +102,16 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FabricioLop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  
   <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=FabricioLop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioLop&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabricioLop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioLop&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioLop&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioLop&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=FabricioLop&style=flat-square&label=Vistas+al+Perfil&color=7aa2f7" alt="contador" />
+  <img src="https://komarev.com/ghpvc/?username=FabricioLop&style=flat-square&label=Vistas+al+Perfil&color=7aa2f7" />
 </div>
