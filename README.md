@@ -1,10 +1,10 @@
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top" style="border: none;">
       <h1>Hi, I'm ShadowLopez 👋</h1>
       <h3>🚀 Software Engineering Student | Future DevOps & PM</h3>
       <br>
-            <a href="https://www.linkedin.com/in/fabricio-lopez-dev/" target="_blank">
+      <a href="https://www.linkedin.com/in/fabricio-lopez-dev/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://www.instagram.com/lopezlopezfabricio/" target="_blank">
@@ -15,6 +15,9 @@
       </a>
       <br><br>
       <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a passionate Software Engineering student focused on building robust architectures and mastering Cloud Computing. My goal is to evolve into a DevOps Engineer and Project Manager, leading teams to create efficient software solutions.
+      </p>
       <ul>
         <li>🔭 Working on <strong>personal portfolio projects.</strong></li>
         <li>🌱 Learning <strong>Cloud (AWS/Azure) & Architecture.</strong></li>
@@ -23,7 +26,7 @@
         <li>⚡ Hobbies: <strong>Anime, Gym, Reading & Series.</strong></li>
       </ul>
     </td>
-        <td width="40%" valign="center">
+    <td width="40%" valign="center" style="border: none;">
       <img src="./qin-shi.gif" width="100%" style="border-radius: 10px;" alt="My Personal GIF" />
     </td>
   </tr>
@@ -96,13 +99,9 @@
 
 ---
 
-### 🏆 My Achievements & Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FabricioLop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  
-  <br><br>
-
   <img src="https://github-readme-stats.vercel.app/api?username=FabricioLop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" height="160" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioLop&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" height="160" alt="languages graph" />
