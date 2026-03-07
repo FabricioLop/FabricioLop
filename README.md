@@ -1,35 +1,51 @@
 <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
-      <h1>Hi, I'm ShadowLopez 👋</h1>
-      <h3>🚀 Software Engineering Student | Future DevOps & PM</h3>
-      <br>
-      <a href="https://www.linkedin.com/in/fabricio-lopez-dev/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://www.instagram.com/lopezlopezfabricio/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <a href="mailto:u202215695@upc.edu.pe">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br><br>
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I am a passionate Software Engineering student focused on building robust architectures and mastering Cloud Computing. My goal is to evolve into a DevOps Engineer and Project Manager, leading teams to create efficient software solutions.
-      </p>
-      <ul>
-        <li>🔭 Working on <strong>personal portfolio projects.</strong></li>
-        <li>🌱 Learning <strong>Cloud (AWS/Azure) & Architecture.</strong></li>
-        <li>🎯 Goals: <strong>DevOps, DevSecOps & Project Manager.</strong></li>
-        <li>☕ Fuel: <strong>Iced Latte.</strong></li>
-        <li>⚡ Hobbies: <strong>Anime, Gym, Reading & Series.</strong></li>
-      </ul>
-    </td>
-    <td width="40%" valign="center" style="border: none;">
-      <img src="./qin-shi.gif" width="100%" style="border-radius: 10px;" alt="My Personal GIF" />
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top" style="border:none;">
+
+# Hi, I'm ShadowLopez 👋
+
+### 🚀 Software Engineering Student | Future Cloud & DevOps Engineer
+
+Passionate about building scalable systems, cloud architectures and automation pipelines.  
+Currently growing as a **Junior Developer** on the path to becoming a **Full Stack Engineer and Cloud Specialist**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/fabricio-lopez-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:u202215695@upc.edu.pe">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/lopezlopezfabricio/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering student
+- 💻 Junior Developer building real projects
+- ☁️ Focused on **Cloud Engineering & DevOps**
+- 🔐 Interested in **Cybersecurity**
+- 📈 Learning how to design **scalable systems**
+- ⚡ Passionate about **automation and architecture**
+
+Fuel for coding ☕ **Iced Latte**
+
+Hobbies 🎮 **Anime | Gym | Reading | Tech**
+
+</td>
+
+<td width="40%" valign="center" style="border:none;">
+
+<img src="./qin-shi.gif" width="100%" style="border-radius:10px;" alt="ShadowLopez gif"/>
+
+</td>
+</tr>
 </table>
 
 ---
