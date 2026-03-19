@@ -62,6 +62,80 @@ Hobbies 🎮 **Anime | Gym | Reading | Tech**
 
 ---
 
+### 🎓 Certificates & Certifications
+
+<details>
+<summary><b>🔐 Cybersecurity — Google (Coursera)</b></summary>
+<br>
+
+| Certificate | Issued | Verify |
+| :--- | :--- | :--- |
+| Foundations of Cybersecurity | Nov 2025 | [TEZN8JZRYLK3](https://www.coursera.org/verify/TEZN8JZRYLK3) |
+| Play It Safe: Manage Security Risks | Nov 2025 | [KS7VWKBOLS2Q](https://www.coursera.org/verify/KS7VWKBOLS2Q) |
+| Connect and Protect: Networks and Network Security | Nov 2025 | [ZS9LITG87PMD](https://www.coursera.org/verify/ZS9LITG87PMD) |
+| Tools of the Trade: Linux and SQL | Nov 2025 | [HACZMH08QR3F](https://www.coursera.org/verify/HACZMH08QR3F) |
+| Assets, Threats, and Vulnerabilities | Dec 2025 | [QAGDM920ZX5D](https://www.coursera.org/verify/QAGDM920ZX5D) |
+| Sound the Alarm: Detection and Response | Dec 2025 | [MA2XWMWIV4AH](https://www.coursera.org/verify/MA2XWMWIV4AH) |
+| Automate Cybersecurity Tasks with Python | Dec 2025 | [CXAZT4OI5UXY](https://www.coursera.org/verify/CXAZT4OI5UXY) |
+| IT Security: Defense against the Digital Dark Arts | Nov 2025 | [RSIVPCGB6BXN](https://www.coursera.org/verify/RSIVPCGB6BXN) |
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & IT Infrastructure — Google (Coursera)</b></summary>
+<br>
+
+| Certificate | Issued | Verify |
+| :--- | :--- | :--- |
+| System Administration and IT Infrastructure Services | Nov 2025 | [NRGPJ7O8PZSW](https://www.coursera.org/verify/NRGPJ7O8PZSW) |
+| Cloud Security Basics — University of Minnesota | Jun 2023 | [5NSUEBNZ6VL8](https://www.coursera.org/verify/5NSUEBNZ6VL8) |
+
+</details>
+
+<details>
+<summary><b>📊 Supply Chain & Data Analytics — Rutgers University (Coursera)</b></summary>
+<br>
+
+| Certificate | Issued | Verify |
+| :--- | :--- | :--- |
+| Supply Chain Analytics Specialization ⭐ | Nov 2023 | [29TXXN27EK2X](https://www.coursera.org/verify/29TXXN27EK2X) |
+| Supply Chain Analytics Essentials | Sep 2023 | [26YYP3X3JJVU](https://www.coursera.org/verify/26YYP3X3JJVU) |
+| Inventory Analytics | Sep 2023 | [ZE2NYTC4R6UX](https://www.coursera.org/verify/ZE2NYTC4R6UX) |
+| Demand Analytics | Nov 2023 | [3U36VM2E8PKA](https://www.coursera.org/verify/3U36VM2E8PKA) |
+| Supply Chain Analytics | Nov 2023 | [7XBV2RETWWUP](https://www.coursera.org/verify/7XBV2RETWWUP) |
+| Business Intelligence and Competitive Analysis | Oct 2023 | [VS44XHSP2SVZ](https://www.coursera.org/verify/VS44XHSP2SVZ) |
+
+</details>
+
+<details>
+<summary><b>📱 Social Media Marketing — Meta (Coursera)</b></summary>
+<br>
+
+| Certificate | Issued | Verify |
+| :--- | :--- | :--- |
+| Introducción al Marketing en Redes Sociales | Mar 2024 | [NVU9SCY5F4LY](https://www.coursera.org/verify/NVU9SCY5F4LY) |
+| Gestión de Redes Sociales | Mar 2024 | [EWQTRHRD25P9](https://www.coursera.org/verify/EWQTRHRD25P9) |
+| Fundamentos de la Publicidad en Redes Sociales | Apr 2024 | [4F8UGL7JZE5F](https://www.coursera.org/verify/4F8UGL7JZE5F) |
+| Publicidad con Meta | Apr 2024 | [EP7D5KXUVHQU](https://www.coursera.org/verify/EP7D5KXUVHQU) |
+| Medir y Optimizar Campañas de Marketing | Apr 2024 | [9XGS52VTJ9MT](https://www.coursera.org/verify/9XGS52VTJ9MT) |
+
+</details>
+
+<details>
+<summary><b>💡 Other Certifications</b></summary>
+<br>
+
+| Certificate | Institution | Issued | Verify |
+| :--- | :--- | :--- | :--- |
+| Excel Skills for Business: Essentials | Macquarie University | Jun 2025 | [BUVAMD2X7R4K](https://www.coursera.org/verify/BUVAMD2X7R4K) |
+| Excel Skills for Business: Intermediate I | Macquarie University | Jun 2025 | [2AV50BPHO58E](https://www.coursera.org/verify/2AV50BPHO58E) |
+| ¡A Programar! Una Introducción a la Programación | U. ORT Uruguay & U. of Edinburgh | Apr 2023 | [TUU7286GZCY4](https://www.coursera.org/verify/TUU7286GZCY4) |
+| Scrum Fundamentals Certified | SCRUMStudy | Jun 2023 | [982605](https://www.scrumstudy.com/certification/verify?type=SFC&number=982605) |
+
+</details>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
